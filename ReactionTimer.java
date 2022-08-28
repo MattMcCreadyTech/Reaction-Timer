@@ -4,6 +4,7 @@ public class ReactionTimer {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		System.out.println("Prepare to press ENTER in...");
 		System.out.println("3");
 		Thread.sleep(1000); //time between numbers (1000ms = 1 second)
 		System.out.println("2");
